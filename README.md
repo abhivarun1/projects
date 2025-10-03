@@ -3,7 +3,7 @@
 <h3 align="center">CSE Student | Building Projects | Exploring AI & Automation 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Dreaming+to+Build+an+Automated+Drone+Delivery+System;Exploring+AI%2C+ML%2C+Web+Development;Lifelong+Learner+%26+Coder+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=First+Year+CSE+Student;Exploring+AI%2C+ML%2C+Web+Development;Lifelong+Learner+%26+Coder+💻" />
 </p>
 
 ---
@@ -76,9 +76,9 @@ This repo is **constantly evolving**. I keep adding new projects and refining ol
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [Your GitHub Profile](https://github.com/abhivarun1)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/abhivarun)  
+## 📫 Connect With Me 
+- LinkedIn: [Abhi Varun Reddy](https://linkedin.com/in/abhivarun)
+- Instagram: [Abhi Varun](https://instagram.com/in/abhivarun)  
 - Email: abhivarunofficial@gmail.com  
 
 ---
