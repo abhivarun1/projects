@@ -78,7 +78,7 @@ This repo is **constantly evolving**. I keep adding new projects and refining ol
 
 ## 📫 Connect With Me 
 - LinkedIn: [Abhi Varun Reddy](https://linkedin.com/in/abhivarun)
-- Instagram: [Abhi Varun](https://instagram.com/in/abhivarun)  
+- Instagram: [Abhi Varun](https://instagram.com/abhivarun)  
 - Email: abhivarunofficial@gmail.com  
 
 ---
